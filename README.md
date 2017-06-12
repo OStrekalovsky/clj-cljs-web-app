@@ -1,9 +1,9 @@
-#Simple AJAX based Clojure+ClojureScript App.
+# Simple AJAX based Clojure+ClojureScript App.
 
-#Requirements
+# Requirements
 Leiningen 2.x
 
-#Run
+# Run
 1. `lein run`
 1. Open in browser `http://localhost:3000/index.html`
 
